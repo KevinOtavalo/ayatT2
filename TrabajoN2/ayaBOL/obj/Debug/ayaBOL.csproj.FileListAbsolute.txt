@@ -1,0 +1,6 @@
+C:\Users\kevin\source\repos\ayaBOL\obj\Debug\ayaBOL.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ayaBOL\obj\Debug\ayaBOL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ayaBOL\bin\Debug\ayaBOL.dll
+C:\Users\kevin\source\repos\ayaBOL\bin\Debug\ayaBOL.pdb
+C:\Users\kevin\source\repos\ayaBOL\obj\Debug\ayaBOL.dll
+C:\Users\kevin\source\repos\ayaBOL\obj\Debug\ayaBOL.pdb

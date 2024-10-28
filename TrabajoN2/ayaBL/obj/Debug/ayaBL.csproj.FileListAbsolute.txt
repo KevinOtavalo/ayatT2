@@ -1,0 +1,11 @@
+C:\Users\kevin\source\repos\ayaBL\obj\Debug\ayaBL.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ayaBL\obj\Debug\ayaBL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaBL.dll
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaBL.pdb
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaBOL.dll
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaDAL.dll
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaBOL.pdb
+C:\Users\kevin\source\repos\ayaBL\bin\Debug\ayaDAL.pdb
+C:\Users\kevin\source\repos\ayaBL\obj\Debug\ayaBL.csproj.Up2Date
+C:\Users\kevin\source\repos\ayaBL\obj\Debug\ayaBL.dll
+C:\Users\kevin\source\repos\ayaBL\obj\Debug\ayaBL.pdb

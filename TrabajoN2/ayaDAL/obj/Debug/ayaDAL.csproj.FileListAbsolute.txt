@@ -1,0 +1,9 @@
+C:\Users\kevin\source\repos\ayaDAL\obj\Debug\ayaDAL.csproj.AssemblyReference.cache
+C:\Users\kevin\source\repos\ayaDAL\obj\Debug\ayaDAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\ayaDAL\bin\Debug\ayaDAL.dll
+C:\Users\kevin\source\repos\ayaDAL\bin\Debug\ayaDAL.pdb
+C:\Users\kevin\source\repos\ayaDAL\bin\Debug\ayaBOL.dll
+C:\Users\kevin\source\repos\ayaDAL\bin\Debug\ayaBOL.pdb
+C:\Users\kevin\source\repos\ayaDAL\obj\Debug\ayaDAL.csproj.Up2Date
+C:\Users\kevin\source\repos\ayaDAL\obj\Debug\ayaDAL.dll
+C:\Users\kevin\source\repos\ayaDAL\obj\Debug\ayaDAL.pdb
